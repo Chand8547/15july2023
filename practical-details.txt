@@ -1,0 +1,26 @@
+I have created one plugin for custom payment method. Other code in twenty twenty one theme for products related task.
+
+Thank you page note.
+https://prnt.sc/ZYhELJKyWijY
+
+When place order order status will be on hold.
+https://prnt.sc/BWiXAheoA0gL
+https://prnt.sc/XhmlI5741GY8
+
+After make order completed from admin side
+https://prnt.sc/zwJzuQngitq7
+
+
+Custom Products Page URL, over there I have created filters dropdown for default, Popular and Featured.
+Popular :- filter will work on total salse meta.
+Featured:- For this filter I have created on custom meta field when you select this check box "https://prnt.sc/5T-G9EFj9w7R" then that product will show as featured in frontend.
+http://localhost/practical-chand/products/
+
+Products Page Screenshot
+https://prnt.sc/wru6G6IuXhNg
+
+Also when you click on add to cart button then it will redirect you to checkout page as same as your requirement.
+
+Admin Login:-
+User:-Admin
+Password:- Admin@123
